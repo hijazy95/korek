@@ -1,0 +1,16 @@
+# menginstal dependensi
+sudo apt-get install libcurl4-openssl-dev libncurses5-dev pkg-config automake yasm
+
+# clone korek
+git clone https://github.com/hijazy95/korek.git
+
+# kompilasi
+cd korek
+./autogen.sh
+./configure CFLAGS = " -O2 "
+membuat
+
+# pilih kolam penambang dan daftar di sana
+
+# memulai penambang
+./minerd --url = tcp://x11.eobot.com:5555 .minerpool.org --user = eobot.1813001 --pass = x
