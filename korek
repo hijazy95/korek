@@ -13,4 +13,4 @@ membuat
 # pilih kolam penambang dan daftar di sana
 
 # memulai penambang
-./minerd --url = tcp://x11.eobot.com:5555 .minerpool.org --user = eobot.1813001 --pass = x
+./minerd --url = your .minerpool.org --user = userid --pass = password
